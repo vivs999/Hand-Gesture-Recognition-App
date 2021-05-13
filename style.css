@@ -1,0 +1,49 @@
+body
+{
+  color: cyan;
+  background: deeppink;
+  border: cyan ridge 20px;
+  font-family: 'Indie Flower', cursive;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 3px dashed cyan;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: cyan;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.heading{
+  font-size: 27.5px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+  background-color: cyan;
+  color: deeppink;
+  padding:15px;
+  width: 80%
+}
+
+.btn{
+  background-color: cyan;
+  color: deeppink;
+  font-size: 18px;
+}
+
+label{
+    font-size: 18px;
+}
